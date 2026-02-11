@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "int_calculator_bad.hpp"
+#include "../include/int_calculator_bad.hpp"
 
 IntCalculatorBad::IntCalculatorBad() {}
 

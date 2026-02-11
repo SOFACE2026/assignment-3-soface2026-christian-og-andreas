@@ -1,7 +1,8 @@
 #include <iostream>
 
-#include "print_logger.hpp"
+#include "../include/print_logger.hpp"
 
 void PrintLogger::log(std::string message)
-{
+{  
+    std::cout << message;
 }
