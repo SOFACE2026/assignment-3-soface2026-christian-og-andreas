@@ -1,0 +1,2 @@
+taking the product of: 10 and 20 which is 200
+taking the sum of: 10 and 20 which is 30

@@ -9,8 +9,8 @@ FileLogger::FileLogger(std::string filename){
 
 // Implement this:
 void FileLogger::log(std::string msg)
-{
-    this->logfile << msg;
+{   
+    this->logfile << msg << std::flush;
 }
 
 // Implement this:
